@@ -1,5 +1,3 @@
-# onion_decoder.py
-
 # 🧅🕵️‍♂️ Onion Decoder
 
 **Onion Decoder ** es una herramienta avanzada de análisis y desofuscación de payloads para Pentesters, Analistas de Malware y jugadores de CTF. 
