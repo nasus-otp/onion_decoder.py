@@ -1,6 +1,6 @@
 # 🧅🕵️‍♂️ Onion Decoder
 
-**Onion Decoder ** es una herramienta avanzada de análisis y desofuscación de payloads para Pentesters, Analistas de Malware y jugadores de CTF. 
+**Onion Decoder** es una herramienta avanzada de análisis y desofuscación de payloads para Pentesters, Analistas de Malware y jugadores de CTF. 
 
 A diferencia de los decodificadores estáticos, esta herramienta utiliza un motor iterativo que detecta y "pela" automáticamente múltiples capas de codificación hasta revelar el texto plano o el shellcode subyacente.
 
