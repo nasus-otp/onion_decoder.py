@@ -32,10 +32,10 @@ cd onion-decoder
 
 Pasa el payload ofuscado y deja que el motor haga el resto:
 
-python3 onion_decoder_pro.py -t "PAYLOAD_AQUI"
+python3 onion_decoder.py -t "PAYLOAD_AQUI"
 
 ## Búsqueda de Palabra Clave (Target Word)
 
 Ideal para detener la ejecución cuando encuentras lo que buscas (ej. una flag, un comando SQL, una contraseña):
 
-python3 onion_decoder_pro.py -t "PAYLOAD_AQUI" -w "SELECT"
+python3 onion_decoder.py -t "PAYLOAD_AQUI" -w "SELECT"
